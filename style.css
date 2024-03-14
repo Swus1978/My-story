@@ -68,6 +68,7 @@ a {
   border: 4px 4px 5px rgba(250, 50, 50, .4);
   display: inline-block;
   margin-right: 90px;
+  box-shadow: 3px 3px 5px #000000;
 }
 
 .card:hover{
